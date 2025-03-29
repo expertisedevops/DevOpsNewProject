@@ -21,8 +21,8 @@
       h1 {
       position: absolute;
       margin: 0;
-      font-size: 100px;
-      color: #000;
+      font-size: 200px;
+      color: #001;
       z-index: 2;
       }
       p.top-info {
@@ -44,7 +44,7 @@
       }
      .banner {
       position: relative;
-      height: 500px;
+      height: 50px;
       background-image: url("/uploads/media/default/0001/02/fb57ab781c34da322c884532bfec751e843e36fc.jpeg");
       background-size: cover;
       display: flex;
@@ -54,7 +54,7 @@
       }
       .banner::after {
       content: "";
-      background-color: blue;
+      background-color: hotpink;
       position: absolute;
       width: 100%;
       height: 180%;
