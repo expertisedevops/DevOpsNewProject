@@ -18,47 +18,8 @@
       color: #012;
       line-height: 40px;
       }
-      h1 {
-      position: absolute;
-      margin: 0;
-      font-size: 20px;
-      color: #001;
-      z-index: 2;
-      }
-      p.top-info {
-      margin: 10px 0;
-      }
-      .testbox {
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      height: inherit;
-      padding: 20px;
-      }
-      form {
-      width: 100%;
-      padding: 20px;
-      border-radius: 6px;
-      background: #FAEBE7;
-      box-shadow: 0 0 25px 0 #000;
-      }
-     .banner {
-      position: relative;
-      height: 50px;
-      background-image: url("/uploads/media/default/0001/02/fb57ab781c34da322c884532bfec751e843e36fc.jpeg");
-      background-size: cover;
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      text-align: center;
-      }
-      .banner::after {
-      content: "";
-      background-color: hotpink;
-      position: absolute;
-      width: 100%;
-      height: 180%;
-      }
+ 
+  
       input, select, textarea {
       margin-bottom: 10px;
       border: 1px solid #EEE;
