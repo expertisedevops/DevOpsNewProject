@@ -21,7 +21,7 @@
       h1 {
       position: absolute;
       margin: 0;
-      font-size: 50px;
+      font-size: 100px;
       color: #000;
       z-index: 2;
       }
@@ -36,7 +36,7 @@
       padding: 20px;
       }
       form {
-      width: 200%;
+      width: 100%;
       padding: 20px;
       border-radius: 6px;
       background: #FFF;
@@ -44,7 +44,7 @@
       }
      .banner {
       position: relative;
-      height: 50px;
+      height: 500px;
       background-image: url("/uploads/media/default/0001/02/fb57ab781c34da322c884532bfec751e843e36fc.jpeg");
       background-size: cover;
       display: flex;
@@ -54,7 +54,7 @@
       }
       .banner::after {
       content: "";
-      background-color: purple;
+      background-color: blue;
       position: absolute;
       width: 100%;
       height: 180%;
