@@ -21,7 +21,7 @@
       h1 {
       position: absolute;
       margin: 0;
-      font-size: 200px;
+      font-size: 20px;
       color: #001;
       z-index: 2;
       }
